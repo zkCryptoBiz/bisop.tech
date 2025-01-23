@@ -1,0 +1,520 @@
+Uri: https://ajax.googleapis.com/ajax/libs/model-viewer/3.4.0/model-viewer.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\ajax\libs\model-viewer\3.4.0\model-viewer.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\bisop.tech\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872a0ef81c7c89_stock-3.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872a0ef81c7c89_stock-3.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872a26251c7c8e_background2.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872a26251c7c8e_background2.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872a33701c7c85_background-1.jpg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872a33701c7c85_background-1.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872ab57f1c7c4f_autumn-goodman-242810.jpg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872ab57f1c7c4f_autumn-goodman-242810.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872acc631c7c41_Group 1915.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872acc631c7c41_Group 1915.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872ad9491c7b37_Group 1930.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872ad9491c7b37_Group 1930.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64354b8ce4872ade2c1c7b78_Group 1929.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354b8ce4872ade2c1c7b78_Group 1929.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/643550c922d6d34b8dffd28d_corner.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\643550c922d6d34b8dffd28d_corner.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/643550c922d6d37de6ffd28c_ico-quote.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\643550c922d6d37de6ffd28c_ico-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/643550c922d6d3e0dcffd28b_ico-indicator.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\643550c922d6d3e0dcffd28b_ico-indicator.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/643550c922d6d3f1bfffd28e_arrow-down.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\643550c922d6d3f1bfffd28e_arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6436bdb39b7ca6101e1a307d_ico-indicator-light.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6436bdb39b7ca6101e1a307d_ico-indicator-light.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6437b8bc549a694211710a04_arrow-right-color.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6437b8bc549a694211710a04_arrow-right-color.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6446951576624313547bb1bd_arrow-next.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6446951576624313547bb1bd_arrow-next.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6447b3caf7dd5f1c0f9f8547_ico-copy.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6447b3caf7dd5f1c0f9f8547_ico-copy.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6447d0f3fe2312625c52e4b0_copied.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6447d0f3fe2312625c52e4b0_copied.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64491f577f22d780663c25d1_ico-arrow.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64491f577f22d780663c25d1_ico-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64491f577f22d7daed3c25d2_ico-close.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64491f577f22d7daed3c25d2_ico-close.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64491fa5649dfb767a0c35ee_arrow-down.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64491fa5649dfb767a0c35ee_arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644920edd0560b68918741c2_btn-shape.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644920edd0560b68918741c2_btn-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644920edd0560b6c368741c4_Rectangle 74.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644920edd0560b6c368741c4_Rectangle 74.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6449229588370d185cb29fc6_active-tab-bg.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6449229588370d185cb29fc6_active-tab-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6449229588370df3b2b29fc5_shape.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6449229588370df3b2b29fc5_shape.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6449229588370df9b2b29fc7_ico-expand.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6449229588370df9b2b29fc7_ico-expand.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644a7458b64f4040a7ca1446_ico-close.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644a7458b64f4040a7ca1446_ico-close.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644fa7ccb2061a3f72c97c6b_corner-bottom-left.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644fa7ccb2061a3f72c97c6b_corner-bottom-left.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644fa7ccf9e72f37ae5162ad_corner-bottom-right.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644fa7ccf9e72f37ae5162ad_corner-bottom-right.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644fa7cd9bc7d5ed92d90f21_corner-top-left.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644fa7cd9bc7d5ed92d90f21_corner-top-left.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/644fa7cdb9ca0ac43e739b5f_corner-top-right.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\644fa7cdb9ca0ac43e739b5f_corner-top-right.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6450af79eba5aa3dfb993c31_revolution-bg-svg.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6450af79eba5aa3dfb993c31_revolution-bg-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6450fcb6b5da11721eb0efab_btn-bottom-right.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6450fcb6b5da11721eb0efab_btn-bottom-right.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6450fcb6b5da117bcdb0efa8_btn-top-left.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6450fcb6b5da117bcdb0efa8_btn-top-left.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64527b1b8e77ad50e87ce02a_corner-top-left-l.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64527b1b8e77ad50e87ce02a_corner-top-left-l.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64527b20d8de852bcf4960b6_corner-bottom-right-l.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64527b20d8de852bcf4960b6_corner-bottom-right-l.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64534f12fbd92f3d36a20110_team-shape-2.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64534f12fbd92f3d36a20110_team-shape-2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6453d68052a3a01a54fc69d3_corner-color-left-2.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6453d68052a3a01a54fc69d3_corner-color-left-2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6453d680c9932a2135e2d11b_corner-color-right-2.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6453d680c9932a2135e2d11b_corner-color-right-2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6453dc9e30c43f411bb8fd1c_team-shape-grey.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6453dc9e30c43f411bb8fd1c_team-shape-grey.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092d0abc7135f7e28796_coin-market.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092d0abc7135f7e28796_coin-market.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092e3199d65741e1fb47_tiktok.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092e3199d65741e1fb47_tiktok.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092e5046c5b780afc9b6_telegram.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092e5046c5b780afc9b6_telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092ec6b511f2eb39dd77_linkedin.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092ec6b511f2eb39dd77_linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092ed6b86b1608236bb6_discord.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092ed6b86b1608236bb6_discord.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092f17d6fd7560981175_instagram.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092f17d6fd7560981175_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092f5046c54307afc9cb_medium.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092f5046c54307afc9cb_medium.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6455092fd9b591208e1ecf5a_twitter.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6455092fd9b591208e1ecf5a_twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64590a7390dd7e8ea93d4dc1_ico-bullet.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64590a7390dd7e8ea93d4dc1_ico-bullet.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/645a3c7ba47fbd79366e7ccb_asterisk.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\645a3c7ba47fbd79366e7ccb_asterisk.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/645c9b720e35a9e8119c1c49_link-icon.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\645c9b720e35a9e8119c1c49_link-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/645e3d7ca7fd751544d4e7e8_icon-link-arrow-simple.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\645e3d7ca7fd751544d4e7e8_icon-link-arrow-simple.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/646201707951b1100b67ddfd_double-dots.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\646201707951b1100b67ddfd_double-dots.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64638db2c8b725b4ad90a80d_youtube.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64638db2c8b725b4ad90a80d_youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/646b5902f6907682fcf69385_badge-popular.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\646b5902f6907682fcf69385_badge-popular.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64744347e6e883e646690c19_button-simple.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64744347e6e883e646690c19_button-simple.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6474434aa431cdc3fc94159e_button-simple-color.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6474434aa431cdc3fc94159e_button-simple-color.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64744380e6e883e6466930b5_robot-head.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64744380e6e883e6466930b5_robot-head.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6475c21b8be0c640d5a29c45_ico-bullet-bright.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6475c21b8be0c640d5a29c45_ico-bullet-bright.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6483277cd7febb7acfdaaf7e_icon-blog.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6483277cd7febb7acfdaaf7e_icon-blog.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/648327cabed90c3bbe10a76f_icon-docs.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\648327cabed90c3bbe10a76f_icon-docs.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/649053c318828135d89780ba_binancedex.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\649053c318828135d89780ba_binancedex.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64abde291a2bcc0e558dbc20_solution-placeholder.png
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64abde291a2bcc0e558dbc20_solution-placeholder.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64b01f76c7ef96b9f260747b_fb.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64b01f76c7ef96b9f260747b_fb.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64b13cd3d48480204ce2c4c9_google-news.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64b13cd3d48480204ce2c4c9_google-news.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64ccdd8c73ade9adc8ef1a81_brand_ico.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64ccdd8c73ade9adc8ef1a81_brand_ico.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64e883e33124c9b0acc5bdfb_ico-bullet-down.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64e883e33124c9b0acc5bdfb_ico-bullet-down.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/64e884b4ad1f15554e53d024_ico-bullet-up.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64e884b4ad1f15554e53d024_ico-bullet-up.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6524003eaeeb16df64f67161_bg.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6524003eaeeb16df64f67161_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/6549081cc567736a0bc36f46_product-menu-bg.webp
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\6549081cc567736a0bc36f46_product-menu-bg.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/654911540c925020ce09ce55_menu-active.webp
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\654911540c925020ce09ce55_menu-active.webp
+Content Type: image/webp
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65d6182179a459f62169dd45_bg-grid.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65d6182179a459f62169dd45_bg-grid.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65d7024239f549e9be5ab902_ico-indicator-down.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65d7024239f549e9be5ab902_ico-indicator-down.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65d862afbad6d694c2a242a8_bg-grid-2.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65d862afbad6d694c2a242a8_bg-grid-2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65e088fbfb46fdd31e5ef44a_ico-indicator-top.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65e088fbfb46fdd31e5ef44a_ico-indicator-top.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65e19a311eb8ec609c72ed14_ico-price.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65e19a311eb8ec609c72ed14_ico-price.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65e19a31ef2063a786b0198c_ico-grant.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65e19a31ef2063a786b0198c_ico-grant.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65f0560ca8ad1b71fda68a64_ico-dev-docs.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65f0560ca8ad1b71fda68a64_ico-dev-docs.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65f0563075f09196f6404a86_ico-api-dashboard.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65f0563075f09196f6404a86_ico-api-dashboard.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65f0565a9834efb848e1ba16_ico-whitelable.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65f0565a9834efb848e1ba16_ico-whitelable.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/65f1be0f9cba6a3af877e869_button-simple-light.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\65f1be0f9cba6a3af877e869_button-simple-light.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64354b8ce4872ad8cd1c7b04/js/webflow.a316ff7b3.js
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\js\webflow.a316ff7b3.js
+Content Type: text/javascript
+
+Uri: https://bisop.tech/
+File Name: C:\Downloaded Web Sites\bisop.tech\index.htm
+Content Type: text/html
+
+Uri: https://bisop.tech/assets/bsop.glb
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\bsop.glb
+Content Type: text/plain
+
+Uri: https://bisop.tech/assets/Coingecko.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\Coingecko.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/coinmarketcap.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\coinmarketcap.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/dextools-logo.webp
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\dextools-logo.webp
+Content Type: image/webp
+
+Uri: https://bisop.tech/assets/dextools.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\dextools.svg
+Content Type: image/svg+xml
+
+Uri: https://bisop.tech/assets/logo.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\logo.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(1).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(1).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(2).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(2).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(3).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(3).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(4).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(4).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(5).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(5).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(6).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(6).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(7).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(7).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/NFT(8).png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\NFT(8).png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/telegram.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\telegram.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/tiktok.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\tiktok.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/twitter.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\twitter.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/uniswap.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\uniswap.png
+Content Type: image/png
+
+Uri: https://bisop.tech/assets/wrapcast.png
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\wrapcast.png
+Content Type: image/png
+
+Uri: https://bisop.tech/main.html
+File Name: C:\Downloaded Web Sites\bisop.tech\main.html
+Content Type: text/html
+
+Uri: https://bisop.tech/Styles/main.css
+File Name: C:\Downloaded Web Sites\bisop.tech\Styles\main.css
+Content Type: text/css
+
+Uri: https://bisop.tech/your-video-file.mp4
+File Name: C:\Downloaded Web Sites\bisop.tech\your-video-file.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.23/bundled/lenis.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\gh\studio-freight\lenis@1.0.23\bundled\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsslider@1/cmsslider.js
+File Name: C:\Downloaded Web Sites\bisop.tech\npm\@finsweet\attributes-cmsslider@1\cmsslider.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://chaingpt-web.s3.us-east-2.amazonaws.com/assets/js/Update+02.08.24/main-global.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\js\Update 02.08.24\main-global.min.js
+Content Type: application/javascript
+
+Uri: https://chaingpt-web.s3.us-east-2.amazonaws.com/assets/js/Update+02.08.24/main-home.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\js\Update 02.08.24\main-home.min.js
+Content Type: application/javascript
+
+Uri: https://chaingpt-web.s3.us-east-2.amazonaws.com/assets/js/Update+02.08.24/ScrambleTextPlugin.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\js\Update 02.08.24\ScrambleTextPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\img\background-image.svg
+Content Type: image/svg+xml
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64354b8ce4872ad8cd1c7b04
+File Name: C:\Downloaded Web Sites\bisop.tech\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\bisop.tech\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317
+File Name: C:\Downloaded Web Sites\bisop.tech\beacon.min.js\v84a3a4012de94ce1a686ba8c167c359c1696973893317
+Content Type: text/javascript
+
+Uri: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\bisop.tech\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js
+File Name: C:\Downloaded Web Sites\bisop.tech\es-module-shims@1.6.3\dist\es-module-shims.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/gsap@3.11.5/dist/gsap.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\gsap@3.11.5\dist\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/gsap@3.11.5/dist/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\bisop.tech\gsap@3.11.5\dist\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/64354b8ce4872ad8cd1c7b04/64354f50a05bcf61015b4b01_VioletSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354f50a05bcf61015b4b01_VioletSans-Regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://uploads-ssl.webflow.com/64354b8ce4872ad8cd1c7b04/64354f50aa83861619841527_VioletSans-Regular.woff
+File Name: C:\Downloaded Web Sites\bisop.tech\64354b8ce4872ad8cd1c7b04\64354f50aa83861619841527_VioletSans-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://web-assets.chaingpt.org/assets/video/animations/eyes_video-transcode.mp4
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\video\animations\eyes_video-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://web-assets.chaingpt.org/assets/video/animations/eyes_video-transcode.webm
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\video\animations\eyes_video-transcode.webm
+Content Type: video/webm
+
+Uri: https://web-assets.chaingpt.org/assets/video/animations/touch_video-transcode.mp4
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\video\animations\touch_video-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://web-assets.chaingpt.org/assets/video/animations/touch_video-transcode.webm
+File Name: C:\Downloaded Web Sites\bisop.tech\assets\video\animations\touch_video-transcode.webm
+Content Type: video/webm
+
