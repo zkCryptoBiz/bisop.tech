@@ -8713,7 +8713,7 @@ img {
   display: flex;
 }
 .section-heading-dot {
-  background-color: #efefe5;
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
   border-radius: 50%;
   width: 4px;
   height: 4px;
@@ -15737,7 +15737,7 @@ img {
   display: flex;
 }
 .brand-icons-holder.bg-light {
-  background-color: #efefe5;
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
 }
 .brand-icons-item {
   width: auto;
@@ -16350,7 +16350,7 @@ img {
 }
 .filter-search-indicator {
   opacity: 0;
-  background-color: #efefe5;
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
   width: 1px;
   height: 1.5rem;
   margin-top: auto;
@@ -19832,7 +19832,7 @@ img {
     display: block;
   }
   .menu-icon-item {
-    background-color: #efefe5;
+    background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
     width: 100%;
     height: 1px;
     padding-bottom: 0;
