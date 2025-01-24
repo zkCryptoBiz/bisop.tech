@@ -3124,9 +3124,7 @@ textarea.w-select {
   }
 }
 body {
-  color: #efefe5;
-  /* background-color: #0a090f; */
-  background-color: #192c7c;
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
   font-family: Violetsans, Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.5;
