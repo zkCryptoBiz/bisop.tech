@@ -210,7 +210,7 @@ html {
   height: 100%;
 }
 body {
-  background-color: blue;
+  background: linear-gradient(to bottom, #13bd8a 30%, #4f3da7 40%, #a019c1 30%);
   color: #333;
   font-family: Arial, sans-serif;
   font-size: 14px;
