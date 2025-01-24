@@ -9544,7 +9544,7 @@ img {
 }
 .roadmap-fade-right {
   z-index: 3;
-  background-color: rgb(25, 44, 124, 0.9);
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
   width: 17vw;
   height: 100%;
   position: absolute;
@@ -9562,7 +9562,7 @@ img {
 }
 .roadmap-fade-left {
   z-index: 3;
-  background-color: rgb(25, 44, 124, 0.9);
+  background: linear-gradient(to bottom, #13bd8a 20%, #4f3da7 50%, #a019c1 20%);
   width: 17vw;
   height: 100%;
   display: block;
